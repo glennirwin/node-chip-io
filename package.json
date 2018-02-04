@@ -24,14 +24,14 @@
   },
   "homepage": "https://github.com/sandeepmistry/node-chip-io#readme",
   "devDependencies": {
-    "johnny-five": "^0.9.17",
-    "jshint": "^2.9.1-rc2"
+    "johnny-five": "^0.13.0",
+    "jshint": "^2.9.5"
   },
   "dependencies": {
-    "board-io": "^3.0.4",
-    "debug": "^2.2.0",
-    "i2c-bus": "^1.2.0",
-    "nan": "^2.5.0"
+    "board-io": "^3.0.5",
+    "debug": "^3.1.0",
+    "i2c-bus": "^1.2.5",
+    "nan": "^2.8.0"
   },
   "os": [
     "linux"
